@@ -1,0 +1,32 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# IDE files
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.unityproj
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.exe
+*.dll
+*.pdb
+*.mdb
+*.so
+*.a
+*.dylib
+
+# Cache files
+.cache/
+*.cache
